@@ -1,0 +1,16 @@
+{
+  "name": "com.ikold.extended-dictionary",
+  "version": "0.0.1",
+  "displayName": "Extended Dictionary",
+  "description": "Inspector editable Dictionary with support for polymorphic serialization.",
+  "unity": "2021.3",
+  "keywords": [
+    "Serialization",
+    "Dictionary"
+  ],
+  "author": {
+    "name": "Jakub Kozlowicz",
+    "email": "jakubkozlowicz10@gmail.com",
+    "url": "https://github.com/ikold"
+  }
+}
