@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Packages/com.ikold.extended-dictionary/Editor/UI/Resources/DictionaryPropertyDrawer.uss?fileID=7433441132597879392&amp;guid=eeaccf3fe66f3c846beeccfddd81e3b7&amp;type=3#DictionaryPropertyDrawer" />
+    <ui:ListView name="dictionary" show-border="true" reorder-mode="Animated" show-foldout-header="true" header-title="test" selection-type="Multiple" />
+</ui:UXML>

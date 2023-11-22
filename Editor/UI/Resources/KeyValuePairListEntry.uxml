@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Packages/com.ikold.extended-dictionary/Editor/UI/Resources/DictionaryPropertyDrawer.uss?fileID=7433441132597879392&amp;guid=eeaccf3fe66f3c846beeccfddd81e3b7&amp;type=3#DictionaryPropertyDrawer" />
+    <ui:VisualElement name="list-entry" class="dictionary-entry">
+        <ui:VisualElement name="key">
+            <ExtendedDictionary.Editor.UI.TypeSelector name="key-type-selector" class="type-selector" />
+            <ExtendedDictionary.Editor.UI.GenericField name="key-field" class="field-container" />
+        </ui:VisualElement>
+        <ui:VisualElement name="value">
+            <ExtendedDictionary.Editor.UI.TypeSelector name="value-type-selector" class="type-selector" />
+            <ExtendedDictionary.Editor.UI.GenericField name="value-field" class="field-container" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
